@@ -103,7 +103,7 @@
             <footer class="main">
                <div class="pull-right"> 
                    <a href="" target="_blank"><strong></strong></a> </div>
-               &copy; 2020 <strong>Neon</strong> Faustino Tavares de Santana Filho <a href="" target="_blank">Teste Fornecedor</a> 
+               &copy; 2020 <strong> Faustino Tavares de Santana Filho</strong> <a href="" target="_blank">Teste</a> 
             </footer>
          </div>
         
